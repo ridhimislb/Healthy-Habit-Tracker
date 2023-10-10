@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "619620351732",
+    "project_id": "healthy-habit-tracker-3a2aa",
+    "storage_bucket": "healthy-habit-tracker-3a2aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619620351732:android:1e578fef8f3441482b28a1",
+        "android_client_info": {
+          "package_name": "com.example.healthyhabittracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrm8p7UjjdGsVtxe1i9x2sS9TSK-5rtfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
